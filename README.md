@@ -1,6 +1,6 @@
 ![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)
 <h1 align="center">Hi 👋, I'm Kadir Celik</h1>
-<h3 align="center">A statistics student from Turkey</h3>
+<h3 align="center">A BSc Statistics graduate from Turkey</h3>
 <img align="right" alt="coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadircelik2&label=Profile%20views&color=0e75b6&style=flat" alt="kadircelik2" /> </p>
